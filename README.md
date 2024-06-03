@@ -1,3 +1,6 @@
+# WARNING
+This repository was forked from [https://github.com/CoreyMSchafer/dotfiles.git](CoreyMSchafer/dotfiles), but was not edited further. Do not attempt to run.
+
 # Development Environment Setup
 
 This repository contains scripts and configuration files to set up a development environment for macOS. It's tailored for software development, focusing on a clean, minimal, and efficient setup.
