@@ -1,6 +1,6 @@
-# WARNING
+# WARNING
 
-This repository was forked from [https://github.com/CoreyMSchafer/dotfiles.git](CoreyMSchafer/dotfiles), but was not edited further. Do not attempt to run.
+This repository was forked from [CoreyMSchafer/dotfiles](https://github.com/CoreyMSchafer/dotfiles.git), but was not edited further. Do not attempt to run.
 
 # Development Environment Setup
 
